@@ -92,8 +92,7 @@ Used peripherals:
 
 ### Prototype Design
 
-![LineAid Prototype](Images/lineaid_prototype.png)
-
+<img src="images/lineaid_prototype.png" width="450">
 ---
 
 ## Future Improvements
