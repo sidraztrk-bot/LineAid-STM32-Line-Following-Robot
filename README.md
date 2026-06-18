@@ -88,14 +88,6 @@ Used peripherals:
 
 ---
 
-## Project Images
-
-### Prototype Design
-
-![LineAid Prototype](Images/lineaid_prototype.png)
-
----
-
 ## Future Improvements
 
 Potential future developments include:
